@@ -110,6 +110,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - British Columbia
     - [Hazelton](https://www.facebook.com/groups/free.code.camp.hazelton.britishcolumbia/)
     - [Kelowna](https://www.facebook.com/groups/free.code.camp.kelowna/)
+    - [Nelson](https://www.facebook.com/groups/free.code.camp.nelson.bc/)
     - [New Westminster](https://www.facebook.com/groups/free.code.camp.new.westminster/)
     - [Surrey](https://www.facebook.com/groups/free.code.camp.surrey/)
     - [Vancouver](https://www.facebook.com/groups/free.code.camp.vancouver.bc.canada/)
