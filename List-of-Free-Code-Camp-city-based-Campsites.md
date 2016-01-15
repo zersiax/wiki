@@ -752,6 +752,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Atlanta](https://www.facebook.com/groups/free.code.camp.atlanta/)
     - [Columbus](https://www.facebook.com/groups/free.code.camp.columbus.georgia/)
     - [Savannah](https://www.facebook.com/groups/free.code.camp.savannah/)
+    - [South Atlanta suburbs](https://www.facebook.com/groups/933248003379232/)
     - [Valdosta](https://www.facebook.com/groups/free.code.camp.valdosta/)
   - Hawaii
     - [Honolulu](https://www.facebook.com/groups/free.code.camp.honolulu.hawaii/)
