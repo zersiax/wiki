@@ -597,6 +597,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Barcelona](https://www.facebook.com/groups/free.code.camp.barcelona/)
   - [Caceres](https://www.facebook.com/groups/free.code.camp.caceres/)
   - [Cadiz](https://www.facebook.com/groups/free.code.camp.cadiz/)
+  - [Ciudad Real](https://www.facebook.com/groups/free.code.camp.ciudad.real/)
   - [Gijon](https://www.facebook.com/groups/free.code.camp.gijon/)    
   - [Fuengirola](https://www.facebook.com/groups/free.code.camp.fuengirola/)
   - [Madrid](https://www.facebook.com/groups/free.code.camp.madrid/)
