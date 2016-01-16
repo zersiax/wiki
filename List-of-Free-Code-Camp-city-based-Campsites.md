@@ -718,6 +718,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [South Los Angeles](https://www.facebook.com/groups/free.code.camp.southlosangeles/)
     - [Temecula](https://www.facebook.com/groups/free.code.camp.temecula/)
     - [Turlock](https://www.facebook.com/groups/free.code.camp.turlock/)
+    - [Yreka](http://www.facebook.com/groups/Free.Code.Camp.Yreka)
   - Colorado
     - [Boulder](https://www.facebook.com/groups/free.code.camp.boulder/)
     - [Colorado Springs](https://www.facebook.com/groups/freecodecampcoloradosprings/)
