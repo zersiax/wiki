@@ -233,6 +233,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Bordeaux](https://www.facebook.com/groups/free.code.camp.your.city.Bordeaux/)
   - [Dax](https://www.facebook.com/groups/509612812554265/)
   - [Grenoble](https://www.facebook.com/groups/free.code.camp.grenoble/)
+  - [Lille](https://www.facebook.com/groups/194646034222797/)
   - [Lyon](https://www.facebook.com/groups/free.code.camp.lyon/)
   - [Macon](https://www.facebook.com/groups/free.code.camp.macon/)
   - [Montpellier](https://www.facebook.com/groups/free.code.camp.montpellier/)
